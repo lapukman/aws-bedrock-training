@@ -55,6 +55,9 @@ Refresh the page and try again.
 Lab environment
 The following diagram shows the architecture you create in this lab:
 
+<img width="4331" height="2383" alt="image" src="https://github.com/user-attachments/assets/3f2b5dde-a894-4817-86c7-46edeb5e5ae1" />
+
+
 Agent enhanced with AgentCore Memory for persistent customer context, and AgentCore Gateway for secure, centralized tool management.
 
 Image description: Agent enhanced with AgentCore Memory for persistent customer context, and AgentCore Gateway for secure, centralized tool management.
