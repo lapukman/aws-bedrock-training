@@ -40,7 +40,8 @@ You are automatically signed in to the AWS Management Console in a new web brows
 
 Common sign-in errors
 Error: You must first sign out
-Log out error
+
+<img width="1218" height="258" alt="image" src="https://github.com/user-attachments/assets/0727e812-68ad-4391-b6c6-1d69eb1c568b" />
 
 If you see the message, You must first log out before logging into a different AWS account:
 
